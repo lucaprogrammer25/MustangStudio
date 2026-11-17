@@ -1,0 +1,12 @@
+Mustang Studio
+
+1. Trascina Mustang Studio nella cartella Applicazioni.
+2. Accendi il Fender Mustang II e collegalo al Mac con il cavo USB.
+3. Apri Mustang Studio. Al primo avvio consenti l’accesso al microfono: è il permesso che il Mac chiede per ogni ingresso audio.
+4. Controlla che in alto compaia il Mustang. Regola il guadagno restando sotto il clip.
+5. Scegli un preset, premi Registra, poi Stop.
+6. Le take finiscono in Musica → MustangStudio. Ogni take ha due WAV: uno pulito e uno con il preset.
+
+L’ascolto esce dalle cuffie o dalle casse del Mac. Il Mustang II non riproduce l’audio del computer via USB.
+
+Se macOS blocca l’apertura perché l’app non è firmata da uno sviluppatore Apple: tasto destro sull’app → Apri.
